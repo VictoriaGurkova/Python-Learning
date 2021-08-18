@@ -358,3 +358,4 @@ dmypy.json
 .prof
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm+all,pycharm,pycharm+iml,pydev
+house_sales_price_estimating.ipynb
